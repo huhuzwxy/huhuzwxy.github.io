@@ -14,7 +14,7 @@ tags: segmentation
 ![](https://raw.githubusercontent.com/huhuzwxy/huhuzwxy.github.io/master/assets/images/unet.png)
 
 3. [SegNet](https://arxiv.org/pdf/1511.00561.pdf) 2016年
-![](https://raw.githubusercontent.com/huhuzwxy/huhuzwxy.github.io/master/assets/images/segnet.jpg)
+![](https://raw.githubusercontent.com/huhuzwxy/huhuzwxy.github.io/master/assets/images/segnet.png)
 
 4. [FusionNet Res-UNet](https://arxiv.org/pdf/1612.05360.pdf) 2016年
     - 将分割网络和残差网络相结合，用于细胞分割。
@@ -27,7 +27,6 @@ tags: segmentation
     - 引入了基于求和的特征层连接，从而可以提供更深的网络架构来实现更精确的分割。
 
 7. [MIMO-Net](http://www.bioimageanalysis.org/wp/wp-content/uploads/formidable/6/MIMO-Net_Isbi2017.pdf) 2017年
-
     - 多输入多输出卷积神经网络，用于荧光显微镜图像中的细胞分割。
     - 网络使用输入图像的多种分辨率训练网络参数，连接中间层以获得更好的定位和上下文，并使用多分辨率反卷积滤波器生成输出。
     - 通过添加绕过最大池化操作的额外卷积层，使得网络可处理可变强度的细胞边界和可变高度的细胞大小。
