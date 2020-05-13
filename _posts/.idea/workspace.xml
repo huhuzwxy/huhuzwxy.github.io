@@ -32,7 +32,9 @@
       <file leaf-file-name="2020-04-10-显微镜.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2020-04-10-显微镜.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1476" />
+            <state relative-caret-position="364">
+              <caret line="43" column="111" lean-forward="true" selection-start-line="43" selection-start-column="94" selection-end-line="43" selection-end-column="111" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -48,6 +50,7 @@
         <option value="$PROJECT_DIR$/2019-12-09-高光谱_超分辨率.md" />
         <option value="$PROJECT_DIR$/2020-03-03-cell_segmentation_literature_review.md" />
         <option value="$PROJECT_DIR$/2020-04-10_显微镜.md" />
+        <option value="$PROJECT_DIR$/2020-04-10-显微镜.md" />
       </list>
     </option>
   </component>
@@ -202,7 +205,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2020-04-10-显微镜.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1476" />
+        <state relative-caret-position="364">
+          <caret line="43" column="111" lean-forward="true" selection-start-line="43" selection-start-column="94" selection-end-line="43" selection-end-column="111" />
+        </state>
       </provider>
     </entry>
   </component>
