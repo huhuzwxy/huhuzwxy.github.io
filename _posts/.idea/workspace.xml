@@ -29,12 +29,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2020-04-10_显微镜.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2020-04-10_显微镜.md">
+      <file leaf-file-name="2020-04-10-显微镜.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2020-04-10-显微镜.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="78" column="106" selection-start-line="78" selection-start-column="106" selection-end-line="78" selection-end-column="106" />
-            </state>
+            <state relative-caret-position="-1476" />
           </provider>
         </entry>
       </file>
@@ -188,6 +186,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2020-04-10_显微镜.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="93" column="91" selection-start-line="93" selection-start-column="91" selection-end-line="93" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2020-03-03-cell_segmentation_literature_review.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -195,11 +200,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2020-04-10_显微镜.md">
+    <entry file="file://$PROJECT_DIR$/2020-04-10-显微镜.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="78" column="106" selection-start-line="78" selection-start-column="106" selection-end-line="78" selection-end-column="106" />
-        </state>
+        <state relative-caret-position="-1476" />
       </provider>
     </entry>
   </component>
