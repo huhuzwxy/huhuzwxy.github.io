@@ -5,13 +5,6 @@ author: zwx
 tags: segmentation
 ---
 
-## 细胞分割
-- - -
-
-- Accurate, generic and robust cell segmentation algorithm.
-
-- - -
-
 ## 典型网络
 
 ### [FCN](https://arxiv.org/pdf/1605.06211.pdf) 2015年
@@ -76,11 +69,7 @@ tags: segmentation
 
 
 ## 光照校正
-- - -
 
-- Accurate, generic and robust cell segmentation algorithm.
-
-- - -
 ## [伪平场校正]<https://jcp.bmj.com/content/56/8/619>
 
     - 用高斯滤波图像代替平场图像。
