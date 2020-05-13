@@ -8,13 +8,13 @@ tags: segmentation
 # 典型网络
 
 1. [FCN](https://arxiv.org/pdf/1605.06211.pdf) 2015年
-![](https://github.com/huhuzwxy/huhuzwxy.github.io/tree/master/assets/images/fcn.png)
+![](https://raw.githubusercontent.com/huhuzwxy/huhuzwxy.github.io/master/assets/images/fcn.jpg)
 
 2. [U-Net](https://arxiv.org/pdf/1505.04597.pdf) 2015年
-![](https://github.com/huhuzwxy/huhuzwxy.github.io/tree/master/assets/images/unet.png)
+![](https://raw.githubusercontent.com/huhuzwxy/huhuzwxy.github.io/master/assets/images/unet.jpg)
 
 3. [SegNet](https://arxiv.org/pdf/1511.00561.pdf) 2016年
-![](https://github.com/huhuzwxy/huhuzwxy.github.io/tree/master/assets/images/segnet.jpg)
+![](https://raw.githubusercontent.com/huhuzwxy/huhuzwxy.github.io/master/assets/images/segnet.jpg)
 
 4. [FusionNet](https://arxiv.org/pdf/1612.05360.pdf) 2016年
 
