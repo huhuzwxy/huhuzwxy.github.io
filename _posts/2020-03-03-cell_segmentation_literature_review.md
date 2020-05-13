@@ -22,8 +22,8 @@ tags: segmentation
 
 ### [FusionNet](https://arxiv.org/pdf/1612.05360.pdf) 2016年
 
-    - 将分割网络和残差网络相结合，用于细胞分割。
-    - 引入了基于求和的特征层连接，从而可以提供更深的网络架构来实现更精确的分割。
+    -将分割网络和残差网络相结合，用于细胞分割。
+    -引入了基于求和的特征层连接，从而可以提供更深的网络架构来实现更精确的分割。
 
 ### [attention-UNet]<https://github.com/ozan-oktay/Attention-Gated-Networks>
 
@@ -75,7 +75,7 @@ tags: segmentation
     - 将SSD和U-Net结合在一起，并在检测和分割模块中采用注意力机制，以将模型重点放在与任务相关的特征上。
 
 
-# 光照校正
+## 光照校正
 - - -
 
 - Accurate, generic and robust cell segmentation algorithm.
@@ -85,7 +85,7 @@ tags: segmentation
 
     - 用高斯滤波图像代替平场图像。
 
-# 去噪
+## 去噪
 - - -
 
 - 空域滤波（线形+非线性）
