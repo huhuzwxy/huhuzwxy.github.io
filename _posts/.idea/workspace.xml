@@ -28,7 +28,7 @@
       <file leaf-file-name="2019-12-05-segmentation_review.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2019-12-05-segmentation_review.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-105">
+            <state relative-caret-position="-86">
               <caret selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
@@ -37,8 +37,8 @@
       <file leaf-file-name="2020-03-03-cell_segmentation_literature_review.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2020-03-03-cell_segmentation_literature_review.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="87" column="2" selection-start-line="87" selection-start-column="2" selection-end-line="87" selection-end-column="2" />
+            <state relative-caret-position="170">
+              <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -187,15 +187,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2019-12-05-segmentation_review.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
+        <state relative-caret-position="-86">
           <caret selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2020-03-03-cell_segmentation_literature_review.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="87" column="2" selection-start-line="87" selection-start-column="2" selection-end-line="87" selection-end-column="2" />
+        <state relative-caret-position="170">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
         </state>
       </provider>
     </entry>

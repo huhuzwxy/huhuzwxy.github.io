@@ -5,20 +5,23 @@ author: zwx
 tags: segmentation
 ---
 
-## 典型网络
+# 典型网络
 
-### [FCN](https://arxiv.org/pdf/1605.06211.pdf) 2015年
+1. [FCN](https://arxiv.org/pdf/1605.06211.pdf) 2015年
+![fcn 网络结构](https://github.com/huhuzwxy/huhuzwxy.github.io/tree/master/assets/images/fcn.png)
 
-### [U-Net](https://arxiv.org/pdf/1505.04597.pdf) 2015年
+2. [U-Net](https://arxiv.org/pdf/1505.04597.pdf) 2015年
+![unet 网络结构](https://github.com/huhuzwxy/huhuzwxy.github.io/tree/master/assets/images/unet.png)
 
-### [SegNet](https://arxiv.org/pdf/1511.00561.pdf) 2016年
+3. [SegNet](https://arxiv.org/pdf/1511.00561.pdf) 2016年
+![segnet 网络结构](https://github.com/huhuzwxy/huhuzwxy.github.io/tree/master/assets/images/segnet.jpg)
 
-### [FusionNet](https://arxiv.org/pdf/1612.05360.pdf) 2016年
+4. [FusionNet](https://arxiv.org/pdf/1612.05360.pdf) 2016年
 
     -将分割网络和残差网络相结合，用于细胞分割。
     -引入了基于求和的特征层连接，从而可以提供更深的网络架构来实现更精确的分割。
 
-### [attention-UNet]<https://github.com/ozan-oktay/Attention-Gated-Networks>
+5. [attention-UNet](https://github.com/ozan-oktay/Attention-Gated-Networks)
 
     - Adam + BN + data augmentation
     - Dice loss
