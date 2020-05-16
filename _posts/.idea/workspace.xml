@@ -20,11 +20,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2020-03-03-cell_segmentation_literature_review.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2020-03-03-cell_segmentation_literature_review.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2020-03-03-cell_segmentation_literature_review.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -32,8 +32,17 @@
       <file leaf-file-name="2020-04-10-显微镜.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2020-04-10-显微镜.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="107" column="105" selection-start-line="107" selection-start-column="105" selection-end-line="107" selection-end-column="105" />
+            <state relative-caret-position="478">
+              <caret line="130" selection-start-line="130" selection-end-line="130" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2020-04-12-图像预处理.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2020-04-12-图像预处理.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="30" column="24" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -41,8 +50,8 @@
       <file leaf-file-name="2020-04-12-显微镜光照校正.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2020-04-12-显微镜光照校正.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="408">
+              <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -61,6 +70,7 @@
         <option value="$PROJECT_DIR$/2020-04-12-显微镜光照校正.md" />
         <option value="$PROJECT_DIR$/2020-04-10-显微镜.md" />
         <option value="$PROJECT_DIR$/2020-03-03-cell_segmentation_literature_review.md" />
+        <option value="$PROJECT_DIR$/2020-04-12-图像预处理.md" />
       </list>
     </option>
   </component>
@@ -206,24 +216,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2020-03-03-cell_segmentation_literature_review.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2020-04-10-显微镜.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="107" column="105" selection-start-line="107" selection-start-column="105" selection-end-line="107" selection-end-column="105" />
+        <state relative-caret-position="478">
+          <caret line="130" selection-start-line="130" selection-end-line="130" selection-end-column="78" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2020-04-12-显微镜光照校正.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="408">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2020-03-03-cell_segmentation_literature_review.md">
+    <entry file="file://$PROJECT_DIR$/2020-04-12-图像预处理.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        <state relative-caret-position="330">
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="24" />
         </state>
       </provider>
     </entry>
