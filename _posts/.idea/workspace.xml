@@ -11,20 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2019-12-05-segmentation_review.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2019-12-05-segmentation_review.md">
+      <file leaf-file-name="2020-02-07-微循环.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2020-02-07-微循环.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2020-03-03-cell_segmentation_literature_review.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2020-03-03-cell_segmentation_literature_review.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="2584">
+              <caret line="152" column="14" selection-start-line="152" selection-start-column="14" selection-end-line="152" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -32,17 +23,17 @@
       <file leaf-file-name="2020-04-10-显微镜.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2020-04-10-显微镜.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="130" selection-start-line="130" selection-end-line="130" selection-end-column="78" />
+            <state relative-caret-position="289">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2020-04-12-图像预处理.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2020-04-12-图像预处理.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2020-04-12-图像预处理.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="30" column="24" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="24" />
+            <state>
+              <caret selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -51,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/2020-04-12-显微镜光照校正.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="19" />
+              <caret line="24" column="19" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -71,6 +62,7 @@
         <option value="$PROJECT_DIR$/2020-04-10-显微镜.md" />
         <option value="$PROJECT_DIR$/2020-03-03-cell_segmentation_literature_review.md" />
         <option value="$PROJECT_DIR$/2020-04-12-图像预处理.md" />
+        <option value="$PROJECT_DIR$/2020-02-07-微循环.md" />
       </list>
     </option>
   </component>
@@ -223,24 +215,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2020-04-10-显微镜.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="130" selection-start-line="130" selection-end-line="130" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2020-04-12-显微镜光照校正.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="19" />
+          <caret line="24" column="19" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2020-04-12-图像预处理.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="30" column="24" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="24" />
+        <state>
+          <caret selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020-04-10-显微镜.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2020-02-07-微循环.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2584">
+          <caret line="152" column="14" selection-start-line="152" selection-start-column="14" selection-end-line="152" selection-end-column="14" />
         </state>
       </provider>
     </entry>
