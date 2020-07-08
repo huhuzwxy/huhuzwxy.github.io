@@ -5,19 +5,18 @@ author: zwx
 tags: segmentation
 ---
 
-# semantic segmentation of Medical Images
-
 - - -
 ## 发展流程
 - edge detection filters and mathematical methods
 - machine learning approaches extracting hand-crafted features
 - deep learning techniques
+
 - - -
 
 ## network structure
 
-### CNN
-- patch-wise prediction
+    ### CNN
+    - patch-wise prediction
 
 ### Fully Convolutional Network（FCN）
 - pixel-wise prediction from the full-sized image
