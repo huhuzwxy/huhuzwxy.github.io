@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2019-12-05-segmentation_review.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2019-12-05-segmentation_review.md">
+      <file leaf-file-name="2019-12-09-高光谱_超分辨率.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2019-12-09-高光谱_超分辨率.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="357">
+              <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -77,7 +77,6 @@
         <option value="$PROJECT_DIR$/2019-11-02-git_guide.md" />
         <option value="$PROJECT_DIR$/2019-11-02-python3内置函数.md" />
         <option value="$PROJECT_DIR$/2019-11-21-pytorch数据读取.md" />
-        <option value="$PROJECT_DIR$/2019-12-09-高光谱_超分辨率.md" />
         <option value="$PROJECT_DIR$/2020-04-10_显微镜.md" />
         <option value="$PROJECT_DIR$/2020-04-12-显微镜光照校正.md" />
         <option value="$PROJECT_DIR$/2020-04-10-显微镜.md" />
@@ -89,6 +88,7 @@
         <option value="$PROJECT_DIR$/2020-06-15-fits文件.md" />
         <option value="$PROJECT_DIR$/2020-07-07-三维重建.md" />
         <option value="$PROJECT_DIR$/2019-12-05-segmentation_review.md" />
+        <option value="$PROJECT_DIR$/2019-12-09-高光谱_超分辨率.md" />
       </list>
     </option>
   </component>
@@ -218,13 +218,6 @@
     <entry file="file://$PROJECT_DIR$/2013-12-24-日本語テスト.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019-12-09-高光谱_超分辨率.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2020-04-10_显微镜.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1581">
@@ -312,6 +305,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2019-12-05-segmentation_review.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2020-02-07-微循环.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1207">
@@ -319,10 +319,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2019-12-05-segmentation_review.md">
+    <entry file="file://$PROJECT_DIR$/2019-12-09-高光谱_超分辨率.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="357">
+          <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
         </state>
       </provider>
     </entry>
