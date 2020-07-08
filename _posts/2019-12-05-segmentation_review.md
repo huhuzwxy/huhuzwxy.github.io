@@ -14,7 +14,6 @@ tags: segmentation
 - - -
 
 ## network structure
-
     ### CNN
     - patch-wise prediction
 
