@@ -11,13 +11,12 @@ tags: segmentation
 - deep learning techniques
 
 # network structure
+   ## CNN
 
-    ## CNN
+   ## CNN
+   - patch-wise prediction
 
-    ## CNN
-    - patch-wise prediction
-
-    ## Fully Convolutional Network（FCN）
+   ## Fully Convolutional Network（FCN）
 
 - pixel-wise prediction from the full-sized image
 - up-sampling the output feature map
