@@ -6,18 +6,21 @@ tags: segmentation
 ---
 
 - - -
-## 发展流程
+# 发展流程
 - edge detection filters and mathematical methods
 - machine learning approaches extracting hand-crafted features
 - deep learning techniques
 
 - - -
 
-## network structure
-    ### CNN
+# network structure
+
+    ## CNN
+
     - patch-wise prediction
 
-### Fully Convolutional Network（FCN）
+    ## Fully Convolutional Network（FCN）
+
 - pixel-wise prediction from the full-sized image
 - up-sampling the output feature map
 - 保护纹理信息，混合粗粒度层和细粒度层
