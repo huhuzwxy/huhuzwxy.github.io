@@ -12,7 +12,7 @@ tags: segmentation
 
 # network structure
 
-##     CNN
+    ## CNN
 
     ## CNN
     - patch-wise prediction
