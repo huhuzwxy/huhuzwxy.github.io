@@ -11,7 +11,7 @@ tags: segmentation
 - deep learning techniques
 
 # network structure
-   ## CNN
+    - ## CNN
 
    ## CNN
    - patch-wise prediction
