@@ -5,18 +5,16 @@ author: zwx
 tags: segmentation
 ---
 
-- - -
 # 发展流程
 - edge detection filters and mathematical methods
 - machine learning approaches extracting hand-crafted features
 - deep learning techniques
 
-- - -
-
 # network structure
 
-    ## CNN
+##     CNN
 
+    ## CNN
     - patch-wise prediction
 
     ## Fully Convolutional Network（FCN）
