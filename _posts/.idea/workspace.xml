@@ -93,7 +93,7 @@
     <option name="x" value="17" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
-    <option name="height" value="808" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -173,7 +173,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="17" y="23" width="1400" height="808" extended-state="0" />
+    <frame x="17" y="23" width="1400" height="797" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
