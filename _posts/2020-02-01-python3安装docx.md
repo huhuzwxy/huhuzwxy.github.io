@@ -5,8 +5,7 @@ author: zwx
 tags: python
 ---
 ## 直接安装docx
-`pip3 install python-docx`
-
+- 直接`pip3 install python-docx`
 - 出现`Successfully installed xxxx`即为安装成功
 - 如果出现lxml安装报错，先安装lxml
 
@@ -20,3 +19,4 @@ tags: python
 ## 通过tar装docx
 - [docx下载链接](https://pypi.org/project/python-docx/#files)
 - 安装lxml后，`pip3 install python-docx`
+- 或者：删除python-docx-0.8.10\docx\templates中的default-docx-template文件夹，然后执行`python setup.py install`
