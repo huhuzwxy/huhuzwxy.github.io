@@ -37,6 +37,8 @@ tags: 论文阅读
 - 导航滤波使用了线性耦合动力学，描述运动过程
 
 ## Introduction
+![交会对接过程](https://raw.githubusercontent.com/huhuzwxy/huhuzwxy.github.io/master/assets/images/%E4%BA%A4%E4%BC%9A%E5%AF%B9%E6%8E%A5%E8%BF%87%E7%A8%8B.jpg)
+
 $$
 RVD\ \left\{\begin{aligned}
 	&Phasing：几十公里处 \\
