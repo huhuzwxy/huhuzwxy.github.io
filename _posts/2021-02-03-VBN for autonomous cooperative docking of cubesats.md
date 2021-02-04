@@ -158,11 +158,17 @@ $$
 
 ### 几何特征
 - 几何特征算法较简单，始终与EKF并行，提供LED检测的鲁棒性
+![几何特征](https://raw.githubusercontent.com/huhuzwxy/huhuzwxy.github.io/master/assets/images/%E5%87%A0%E4%BD%95%E7%89%B9%E5%BE%81.png)
 
 #### 外部模式
-- a接近180度
+- 角度：a接近180度；beta趋于0度
+- 距离比：d1 / d2 = 1
+- 额外特征：两个外部LED之间的像素距离（在5m处最大，10m最小）
 
 #### 内部模式
+- 距离比：d1 / d2， d1 / d3， d2 / d4， d3 / d4
+- 角度：a1， a2， a3， a4
+- 最后采用(d1 + d2) / (d3 + d4) = 1
 
 
 
