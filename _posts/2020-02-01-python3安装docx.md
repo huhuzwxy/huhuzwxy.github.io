@@ -20,3 +20,8 @@ tags: python
 - [docx下载链接](https://pypi.org/project/python-docx/#files)
 - 安装lxml后，`pip3 install python-docx`
 - 或者：删除python-docx-0.8.10\docx\templates中的default-docx-template文件夹，然后执行`python setup.py install`
+
+## 安装xlrd和xlwt
+- 直接`pip3 install xlrd`和`pip3 install xlwt`
+- xlrd当前版本只支持xls文件，不支持xlsx文件，如需读取xlsx，安装1.2.0版本，`pip3 install xlrd==1.2.0`
+- xlwt单个sheet最大行数是65535，如果有更大需要，建议使用openpyxl函数，最大行数达到1048576，`pip3 install openpyxl`
